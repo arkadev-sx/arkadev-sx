@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergei 
-- 👀 I’m interested in web//mobile apps dev
-- 🌱 I’m currently learning vue & flutter
+- 👀 I’m interested in web//mobile apps dev (vue.js/flutter)
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mobile apps or web applications
 - 📫  arkadev.sx@gmail.com // https://www.linkedin.com/in/arkadev-sx/
